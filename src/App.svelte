@@ -8,7 +8,7 @@
 </script>
 
 <main>
-	<h1>Hell<img src="http://localhost:8080/favicon.png">   {name}!</h1>
+	<h1>Hell<img src="./favicon.png">   {name}!</h1>
 	<p><a href="#" on:click={addKeplrExtension}>Add keplr extension</a></p>
 </main>
 
