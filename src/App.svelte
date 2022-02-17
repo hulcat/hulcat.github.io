@@ -9,6 +9,8 @@
 
 <main>
 	<h1>Hell<img src="./favicon.png">   {name}!</h1>
+	<p><a href="https://github.com/hulcat/document/distribution" target="_blank">Distribution</a></p>
+	<p><a href="https://github.com/hulcat/document/bounties" target="_blank">Bounties</a></p>
 	<p><a href="#" on:click={addKeplrExtension}>Add keplr extension</a></p>
 </main>
 
